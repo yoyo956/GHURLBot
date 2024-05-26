@@ -1,3 +1,4 @@
+README.md
 GHURLBot is an IRC bot that provides full URLs when GitHub issues
 (‘#123’) or users (‘@yyyy’) are mentioned in IRC. It is typically
 known as ‘gb’ on IRC. E.g.:
